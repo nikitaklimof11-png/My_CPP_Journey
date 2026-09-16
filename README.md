@@ -12,3 +12,4 @@ A console-based tactical analytical system for managing and ranking combat vehic
 
 ---
 *Focused on performance, algorithms, and future GameDev engineering.*
+* Успешно пройдено 12 шагов в курсе "Введение в программирование (C++)" от Академии Яндекса и ВШЭ на платформе Stepik. 
