@@ -12,4 +12,5 @@ A console-based tactical analytical system for managing and ranking combat vehic
 
 ---
 *Focused on performance, algorithms, and future GameDev engineering.*
-...
+Прошёл новый раздел на степике
+
